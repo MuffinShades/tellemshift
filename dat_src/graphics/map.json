@@ -1,0 +1,21 @@
+{
+    "Shaders": {
+        "Default": {
+            "Vert": "vertexShader.glsl",
+            "Frag": "fragmentShader.glsl"
+        },
+        "FrameBuffer": {
+            "Vert": "",
+            "Frag": ""
+        }
+    },
+    "Textures": {
+        "Spritsheets": {
+            
+        },
+        "TestImages": {
+            "jamoz": "maker_bg.png",
+            "mario": "test2.png"
+        }
+    }
+}

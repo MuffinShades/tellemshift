@@ -1,0 +1,10 @@
+{
+    "Graphics": {
+        "output_file": "dat/graphics.dat",
+        "dir": "dat_src/graphics/",
+        "map_target": "map.json"
+    },
+    "_glb_output": {
+        "target_file": "glbl.dat"
+    }
+}

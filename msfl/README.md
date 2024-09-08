@@ -1,0 +1,1 @@
+To use just include "msfl.hpp" from the include directory and it will include all of the other headers for you
